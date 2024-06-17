@@ -1,1 +1,1 @@
-Please read documentation file: documnetation.docx
+Please read documentation file: documentation.docx
