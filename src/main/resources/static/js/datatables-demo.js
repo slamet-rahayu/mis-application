@@ -50,5 +50,10 @@ $(document).ready(function() {
     }
   });
 
+  $("#logoutbtn").click(function() {
+    localStorage.clear();
+    window.location.replace("/login");
+  });
+
   
 });
