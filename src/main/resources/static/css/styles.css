@@ -1,0 +1,15 @@
+.row-black, .row-blue {
+    color: white !important;
+}
+
+.row-blue {
+    background-color: #16a2b8;
+}
+
+.row-black {
+    background-color: #6c747c;
+}
+
+.none {
+    display: none;
+}
